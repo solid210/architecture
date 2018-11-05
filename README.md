@@ -1,2 +1,2 @@
-# Archtecture
-For archtecture, save some files and images
+# Architecture
+For architecture, save some files and images
